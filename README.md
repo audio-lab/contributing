@@ -1,2 +1,3 @@
-# contributing
-Contribution guidelines and organization issues
+# Contributing
+
+If you want to contribute, just leave request in [issues](/issues).
