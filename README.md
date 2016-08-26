@@ -11,3 +11,7 @@ If you want to contribute, just leave request in [issues](https://github.com/aud
 * `sound-*` packages relate to sound producing side of code, unlike `audio-*`, which are focused on technical side. E. g. `sound-bird` etc.
 
 Of course there are exceptions.
+
+## Workflow
+
+Stick to PRs workflow and all fine.
